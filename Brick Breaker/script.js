@@ -37,7 +37,7 @@ const unMute = document.querySelector(".unMute");
 const mute = document.querySelector(".mute");
 const mainAd = document.querySelector(".mainAd");
 
-mainAd.volume = 0.2;
+mainAd.volume = 0.1;
 
 // Main Player
 class Player {
