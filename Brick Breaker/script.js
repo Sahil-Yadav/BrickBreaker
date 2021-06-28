@@ -248,7 +248,6 @@ function draw() {
             if (level.innerText == 2) {
               ball.x = canvas.width / 2;
               ball.y = canvas.height - 60;
-              ball.dy = -ball.dy;
               lives.innerText = 3;
             }
           }
